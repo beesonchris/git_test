@@ -1,0 +1,2 @@
+This is practice text in a file I'm using to practice the Git workflow on the command line.
+I'm trying to follow the Odin learning flow as closely as I can!
